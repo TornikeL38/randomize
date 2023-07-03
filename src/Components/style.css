@@ -1,0 +1,19 @@
+.faculty{
+    display: flex;
+    justify-content:space-around;
+}
+.Students{
+    text-align: center;
+}
+button{
+   display: block;
+    margin: 20px auto;
+    background-color: black;
+    color: #fff;
+    width: 150px;
+    height: 55px;
+    border-radius: 30px;
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+}
